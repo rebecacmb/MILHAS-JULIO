@@ -1,0 +1,63 @@
+body{
+
+    background-color: rgb(53, 85, 34);
+    color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+
+.intro{
+    background-image: url(luar\ no\ sertão.jpg);
+    height: 295px;
+    background-size: 100% 100%;
+    text-align: center;
+    
+}
+
+.links{
+    color: rgb(255, 255, 255);
+    background-color:rgb(53, 85, 34);
+    padding: 20px;
+    font-size: 20px;
+
+}
+.funçoes{
+    color: rgb(0, 0, 0);
+    background-color:rgb(230, 235, 235);
+    padding: 20px;
+    font-size: 20px;
+    }
+        .ativo {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    
+    }
+.aba-conteudo {
+
+    display: none;
+    
+    }
+
+    .ativa {
+    
+        display: block;
+        color: rgb(255, 255, 255);
+    }
+
+.manchete{
+text-align: justify;
+
+}
+.centro{
+    text-align: center;
+}
+@media screen and (min-width: 1024px)  {   
+
+}
+
+@media screen and (min-width: 1728px) {   
+
+}
+
+
